@@ -1,0 +1,37 @@
+    1  ls
+    2  cd /
+    3  ls
+    4  exit
+    5  ls
+    6  cd /
+    7  ls
+    8  sudo su
+    9  quit
+   10  exit
+   11  ls
+   12  dirname
+   13  ARQUIVO="/home/dirack/teste.txt"
+   14  echo ARQUIVO
+   15  echo $ARQUIVO
+   16  dirname $ARQUIVO
+   17  LS
+   18  ls
+   19  dirname README.md 
+   20  basename $ARQUIVO
+   21  basename .txt
+   22  basename $ARQUIVO .txt
+   23  ls
+   24  clear
+   25  history
+   26  clear
+   27  history
+   28  ls -a
+   29  history
+   30  dirname README.md 
+   31  echo $ARQUIVO
+   32  ls
+   33  clear
+   34  hitory | tail 5
+   35  history | tail 10
+   36  history | tail -10
+   37  history >> comandos.txt
